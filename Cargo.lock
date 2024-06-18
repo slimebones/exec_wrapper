@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "deploy"
-version = "0.1.0"
-
-[[package]]
 name = "exec_wrapper"
 version = "0.1.0"

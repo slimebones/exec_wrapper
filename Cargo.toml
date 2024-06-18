@@ -1,4 +1,3 @@
-workspace = { members = ["src/deploy"] }
 [package]
 name = "exec_wrapper"
 version = "0.1.0"
